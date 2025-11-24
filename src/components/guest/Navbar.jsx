@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import { motion } from "framer-motion";
-import logo from "../../assets/Images/Logo-Job-portal.png";
+import logo from "../../assets/Images/Logo-Job-Portal.png";
 
 export default function Navbar() {
   const navVariants = {
