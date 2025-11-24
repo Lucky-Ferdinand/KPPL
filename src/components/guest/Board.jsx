@@ -3,9 +3,9 @@ import { motion } from 'framer-motion';
 
 export default function Board() {
   const topFreelancers = [
-    { id: 1, name: 'Kate Adie', role: 'UI/UX Designer', avatar: 'src/assets/Images/Kate_Adie,_Festival_Internacional_de_Literatura_Gibunco_de_Gibraltar_-_2017_(38547049881).jpg' },
-    { id: 2, name: 'John Lennon', role: 'Senior Art Director', avatar: 'src/assets/Images/_116102576_gettyimages-517322868.jpg.webp' },
-    { id: 3, name: 'Nadine Coyle', role: 'Photographer', avatar: 'src/assets/Images/nadine-coyle-headshot-.webp' },
+    { id: 1, name: 'Kate Adie', role: 'UI/UX Designer', avatar: 'Images/Kate_Adie,_Festival_Internacional_de_Literatura_Gibunco_de_Gibraltar_-_2017_(38547049881).jpg' },
+    { id: 2, name: 'John Lennon', role: 'Senior Art Director', avatar: 'Images/_116102576_gettyimages-517322868.jpg.webp' },
+    { id: 3, name: 'Nadine Coyle', role: 'Photographer', avatar: 'Images/nadine-coyle-headshot-.webp' },
   ];
 
   return (
@@ -78,7 +78,7 @@ export default function Board() {
 
         {/* Right Image */}
         <img
-          src="src/assets/Images/img-job.png"
+          src="Images/img-job.png"
           alt="People working collaboratively on a job portal"
           className="w-full max-w-sm h-auto rounded-xl shadow-xl"
         />

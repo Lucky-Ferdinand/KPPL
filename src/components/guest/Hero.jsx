@@ -145,13 +145,13 @@ export default function Hero() {
       >
         <div className="relative rounded-[100px_100px_0_100px] bg-blue-500 w-[420px] h-[520px] flex justify-center items-center shadow-[0_0_0_40px_#dbeafe] z-10">
           <img
-            src="src/assets/Images/banner.png"
+            src="/Images/banner.png"
             alt="Hero Person"
             className="object-cover w-[420px] h-[520px] rounded-[100px_100px_0_100px] z-10"
           />
 
           <motion.img
-            src="src/assets/Images/union.svg"
+            src="Images/union.svg"
             alt="Union"
             className="absolute -top-4 -left-4 w-12 h-12 z-20"
             {...floatingVariant(6, 6, 6, 0)}
@@ -177,7 +177,7 @@ export default function Hero() {
             className="absolute top-1/3 right-4 bg-white bg-opacity-70 backdrop-blur-md rounded-md px-4 py-3 flex items-center gap-2 shadow-md z-20"
             {...floatingVariant(6, 4, 6.2, 0.3)}
           >
-            <img src="src/assets/Images/user-avatar.png" alt="User" className="w-8 h-8 rounded-full" />
+            <img src="Images/user-avatar.png" alt="User" className="w-8 h-8 rounded-full" />
             <div className="text-xs">
               <p className="font-semibold text-[#374151]">Web Development Class</p>
               <p className="text-[10px] text-[#6b7280]">Tomorrow at 10.00 AM</p>
@@ -193,7 +193,7 @@ export default function Hero() {
               {Array.from({ length: 5 }).map((_, i) => (
                 <img
                   key={i}
-                  src="src/assets/Images/course.svg"
+                  src="Images/course.svg"
                   alt={`Avatar ${i}`}
                   className="w-7 h-7 rounded-full border-2 border-white object-cover"
                 />
@@ -207,14 +207,14 @@ export default function Hero() {
           </motion.div>
 
           <motion.img
-            src="src/assets/Images/docs.svg"
+            src="Images/docs.svg"
             alt="Docs Icon"
             className="absolute bottom-1 left-1 w-10 h-10 z-20"
             {...floatingVariant(4, 5, 5.2, 0.1)}
           />
 
           <motion.img
-            src="src/assets/Images/course.svg"
+            src="Images/course.svg"
             alt="Course Icon"
             className="absolute top-4 right-2 w-10 h-10 rotate-12 z-20"
             animate={{
