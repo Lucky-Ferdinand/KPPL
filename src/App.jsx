@@ -7,7 +7,7 @@ import Loading from "./components/Loading";
 
 const MainLayout = React.lazy(() => import("./layouts/MainLayout"));
 import GuestLayout from './layouts/GuestLayout';
-import Guest from './pages/guest';
+import Guest from './pages/Guest';
 
 const Dashboard = React.lazy(() => import("./pages/Dashboard"));
 const Job = React.lazy(() => import("./pages/Job"));
