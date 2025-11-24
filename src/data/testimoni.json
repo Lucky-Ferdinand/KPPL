@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "nama": "Megawati",
+      "komentar": "Makanannya sangat enak.",
+      "rating": 5,
+      "image": "/img/guest/NasiGoreng.jpg",
+      "tanggal": "06 September"
+    },
+    {
+      "id": 2,
+      "nama": "Marwan",
+      "komentar": "Pengantarannya cepat.",
+      "rating": 4,
+      "image": "/img/guest/Pempek.jpg",
+      "tanggal": "12 Agustus"
+    },
+    {
+      "id": 3,
+      "nama": "Agnes",
+      "komentar": "Makanannya sudah dingin.",
+      "rating": 3,
+      "image": "/img/guest/Rawon.jpg",
+      "tanggal": "01 Mei"
+    },
+    {
+      "id": 4,
+      "nama": "Lala",
+      "komentar": "Luar biasa! Akan saya rekomendasikan ke teman-teman saya.",
+      "rating": 5,
+      "image": "/img/guest/BikaAmbon.jpg",
+      "tanggal": "18 Juni"
+    },
+    {
+      "id": 5,
+      "nama": "Cristiano",
+      "komentar": "Bika ambonnya lumayan enak",
+      "rating": 4,
+      "image": "/img/guest/BikaAmbon.jpg",
+      "tanggal": "28 September"
+    },
+    {
+      "id": 6,
+      "nama": "Jokowi",
+      "komentar": "Pelayanan memuaskan dan sangat profesional.",
+      "rating": 5,
+      "image": "/img/guest/Bakso.jpg",
+      "tanggal": "19 November"
+    }
+  ]
+  

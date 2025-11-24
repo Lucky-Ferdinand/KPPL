@@ -1,0 +1,32 @@
+[
+  {
+    "kode_produk": "PRD001",
+    "nama_produk": "Nasi Goreng",
+    "harga": 20000,
+    "stok": 10
+  },
+  {
+    "kode_produk": "PRD002",
+    "nama_produk": "Bakso",
+    "harga": 20000,
+    "stok": 0
+  },
+  {
+    "kode_produk": "PRD003",
+    "nama_produk": "Bika Ambon",
+    "harga": 120000,
+    "stok": 5
+  },
+  {
+    "kode_produk": "PRD004",
+    "nama_produk": "Pempek",
+    "harga": 15000,
+    "stok": 3
+  },
+  {
+    "kode_produk": "PRD005",
+    "nama_produk": "Rawon",
+    "harga": 20000,
+    "stok": 0
+  }
+]
